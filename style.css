@@ -6,8 +6,11 @@ body {
 h1 {
   color: #590808;
   text-align: center;
+  margin-botton: 25px;
 }
 
 img {
-  width: 30px;
+  width: 80px;
+  display: block;
+  margin: 10px auto;
 }
