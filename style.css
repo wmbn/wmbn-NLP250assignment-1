@@ -1,16 +1,16 @@
 body {
   background-color: #baba17;
-  font-family: Monaco;
+  font-family: Monaco, monospace;
 }
 
 h1 {
   color: #590808;
   text-align: center;
-  margin-botton: 25px;
+  margin-bottom: 25px;
 }
 
 img {
-  width: 80px;
+  width: 180px;
   display: block;
   margin: 10px auto;
 }
